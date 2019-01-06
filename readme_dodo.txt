@@ -9,3 +9,5 @@ Express server listening on port 3000
 mongo :: connected to database :: "node-login"
 
 Aí é só ir no browser e digitar o caminho - http://localhost:3000/
+
+To stop server, just press [CONTROL (^)] + C in same Terminal shell 
